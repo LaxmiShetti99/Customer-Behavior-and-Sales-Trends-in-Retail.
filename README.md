@@ -1,6 +1,6 @@
 # Customer Behaviour and Sales Trends in Retail
 # Overview 
-This project explores retail customer data to identify purchasing patterns, satisfaction levels, and revenue drivers. It combines SQL queries for structured data analysis, Python (pandas, matplotlib, seaborn) for statistical exploration and visualizations, and Power BI dashboards for interactive reporting.  
+This project explores retail customer data to identify purchasing patterns, satisfaction levels, and revenue drivers. It combines SQL queries for structured data analysis, Python (numpy,pandas, matplotlib, seaborn) for statistical exploration and visualizations, and Power BI dashboards for interactive reporting.  
 Dataset Source: Downloaded from Kaggle.
 
 # Features
