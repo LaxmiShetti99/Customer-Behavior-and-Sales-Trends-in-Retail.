@@ -31,7 +31,16 @@ Dataset Source: Downloaded from Kaggle.
 - Power BI  
 - Kaggle dataset
 
+# Files
+- project-1.py → Python code for data analysis
+- project1_queries.sql → SQL queries for data extraction
+- retail_sales_analysis.pbix → Power BI dashboard
+- shopping_trends_cleaned.csv → Cleaned dataset used for analysis
 
+# Database Connection
+The Python file includes MySQL connection code.  
+For security, credentials are not included.  
+Replace placeholders (`your_username`, `your_password`, etc.) or set environment variables before running.
 
 
 
